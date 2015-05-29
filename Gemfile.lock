@@ -178,7 +178,6 @@ PLATFORMS
 DEPENDENCIES
   aws-sdk (< 2.0)
   bootstrap-sass
-  cocaine (~> 0.5.3)
   coffee-rails (~> 4.1.0)
   devise (~> 3.5.1)
   jbuilder (~> 2.0)
