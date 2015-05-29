@@ -12,7 +12,7 @@ gem 'bootstrap-sass'
 gem 'devise', '~> 3.5.1'
 gem 'paperclip', github: 'thoughtbot/paperclip'
 gem 'cocaine', '~> 0.5.3'
-gem 'aws-sdk', '< 2.0.47'
+gem 'aws-sdk', '< 2.0'
 
 group :development, :test do
   gem 'sqlite3'
